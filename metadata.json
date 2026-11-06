@@ -1,0 +1,6 @@
+{
+  "name": "Vedaquim - Impermeabilização com Injeção Química",
+  "description": "Landing page oficial da Vedaquim para impermeabilização definitiva de lajes com injeção química sob pressão, com diagnóstico com IA e calculadora de economia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
